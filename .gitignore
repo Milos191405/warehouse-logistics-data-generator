@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/processed/*.csv
+data/processed/diagnostics/*.csv
+data/bronze/*.csv
